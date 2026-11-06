@@ -10,13 +10,13 @@ using namespace std; //using standard namespace to avoid using std
 int main(){
     string StudName; //variable to store the student name
     int ExamMks; //variable to store the exam marks
-    char Grade;
+    char Grade; //stores grade character
 
     /*Prompting the user to enter details and also stores them*/
     cout<< "Enter your name below" <<endl; //prompts user to enter student name
     getline(cin, StudName); //store the student name
 
-    cout<< "Enter the marks scored \n" <<endl; //user enters the marks
+    cout<< "Enter the marks scored." <<endl; //user enters the marks
     cin>>ExamMks; //marks stored
 
 
