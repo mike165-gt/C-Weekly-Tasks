@@ -4,7 +4,7 @@
 /*DRIVING TEST RESULT EVALUATION SYSTEM*/
 
 #include<iostream> //include input/output stream library
-#include<string.h> //include stream library for handling text
+#include<string> //include stream library for handling text
 using namespace std; // use standaard namespace to avoid using std
 
 int main(){
