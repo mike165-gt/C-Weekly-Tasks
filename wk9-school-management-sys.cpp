@@ -1,5 +1,6 @@
 //Name: Michael Mutembei
 //RegNo:CT101/G/26579/25
+/*School managemet system*/
 
 #include<iostream> //library for input/output
 #include<string>//library for handling text
